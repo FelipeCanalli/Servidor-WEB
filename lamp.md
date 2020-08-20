@@ -1,6 +1,4 @@
-## Projeto - Servidor WEB LAMP
-
-#
+# Projeto - Servidor WEB LAMP
 
 Faça você também passo a passo [Curso Linux WEB Server Level 1](https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
