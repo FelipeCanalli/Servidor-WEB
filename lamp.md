@@ -2,11 +2,11 @@
 
 #
 
-#### Faça você também passo a passo [Curso Linux WEB Server Level 1](https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
+Faça você também passo a passo [Curso Linux WEB Server Level 1](https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
-#### Esse projeto simula um ambiente real de hospedagem
+Esse projeto simula um ambiente real de hospedagem
 
-![Cenário](/img/LAMP-Cenario.jpg)
+![Cenario](/img/LAMP-cenario.jpg)
 
 #
 
