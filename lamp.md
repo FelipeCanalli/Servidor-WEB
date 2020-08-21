@@ -1,6 +1,6 @@
 # Projeto - Servidor WEB LAMP
 
-Faça você também passo a passo gratuitamente com o Projessor José de Assis [Curso Linux WEB Server Level 1](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
+Faça você também passo a passo gratuitamente com o Professor José de Assis [Curso Linux WEB Server Level 1](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
 [![Curso Linux WEB Server Level 1](/img/LAMP.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
