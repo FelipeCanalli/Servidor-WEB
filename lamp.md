@@ -1,6 +1,8 @@
 # Projeto - Servidor WEB LAMP
 
-Faça você também passo a passo [Curso Linux WEB Server Level 1](https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
+Faça você também passo a passo gratuitamente com o Projessor José de Assis [Curso Linux WEB Server Level 1](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
+
+[![Curso Linux WEB Server Level 1](/img/LAMP.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
 Esse projeto simula um ambiente real de hospedagem
 
@@ -18,6 +20,10 @@ Esse projeto simula um ambiente real de hospedagem
 
 #
 
+| ![Endereçamento IP dos Servidores](/img/LAMP-enderecamento.jpg) |
+| :-------------------------------------------------------------: |
+|                _endereçamento IP dos Servidores_                |
+
 |  ![Teste de conectividade](/img/LAMP-ping-maquina-real.jpg)   |
 | :-----------------------------------------------------------: |
 | _ping vindo dos servidores até a máquina real (192.168.0.23)_ |
@@ -34,9 +40,13 @@ Esse projeto simula um ambiente real de hospedagem
 | :----------------------------------------------------------------------: |
 | _acesso remoto via SSH ( root está bloqueado para esse tipo de acesso )_ |
 
-| ![Conexão FTP](/img/LAMP-conexao-ftp.jpg) |
-| :---------------------------------------: |
-|               _conexão FTP_               |
+| ![Conexão FTP ( site 1 )](/img/LAMP-conexao-ftp1.jpg) |
+| :---------------------------------------------------: |
+|               _conexão FTP ( site 1 )_                |
+
+| ![Conexão FTP ( site 2 )](/img/LAMP-conexao-ftp2.jpg) |
+| :---------------------------------------------------: |
+|               _conexão FTP ( site 2 )_                |
 
 | ![Primeiro site](/img/LAMP-primeiro-site.jpg) |
 | :-------------------------------------------: |
